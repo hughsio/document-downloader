@@ -16,6 +16,8 @@ Here's a quick rundown of what this script does:
 
 ## Setup
 
+## Setup
+
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/hughsio/document-downloader.git
@@ -23,10 +25,12 @@ Here's a quick rundown of what this script does:
    ```
 
 2. **Install Dependencies:**
-   Make sure you have Python 3.x installed, then run:
+   This project uses a `requirements.txt` file to manage dependencies. To install them, run:
    ```bash
-   pip install requests beautifulsoup4
+   pip install -r requirements.txt
    ```
+   This will install all necessary packages, including beautifulsoup4, requests, and their dependencies.
+
 
 3. **Run the Script:**
    Once you’ve set everything up, simply run:
