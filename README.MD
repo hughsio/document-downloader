@@ -14,7 +14,6 @@ Here's a quick rundown of what this script does:
 4. **Retries on Failure:** If a download fails, the script will retry up to three times before moving on to the next file.
 5. **Zipping:** After downloading, it compresses the documents into a zip file for easy access and sharing.
 
-## Setup
 
 ## Setup
 
