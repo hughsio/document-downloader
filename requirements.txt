@@ -1,5 +1,5 @@
 beautifulsoup4==4.10.0
-requests==2.32.3
+requests==2.32.4
 urllib3==2.2.2
 certifi==2024.6.2
 idna==3.7
